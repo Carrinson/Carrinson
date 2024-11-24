@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Carrinson
 - 👀 I’m currently working with html css js and react.js and also flutter(Dart) for mobile development
 - 🌱 I’m currently learning nod.js but im also picking up python for ml modelling and stuff
-- 💞️ I’m looking to collaborate on any of the them
 - 📫 How to reach me carrinsonn on X or carrinson on instagram i guess might put links later 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: hmm ive been reading light novels and lord of the mysteries is really coolll
 
 <!---
