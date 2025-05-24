@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carrinson
-- 👀 I’m currently working with html css js and also flutter(Dart) for mobile development
-- 🌱 I’m currently learning react.js then would pick up node.js but im also picking up python for ml modelling and stuff
+- 👀 I’m currently working with html css js and react.js
+- 🌱 I’m currently learning java but im planning on picking up python for ml modelling and stuff
 - 📫 How to reach me carrinsonn on X or carrinson on instagram i guess might put links later 
 - ⚡ Fun fact: hmm i've been reading light novels and lord of the mysteries is really coolll
 
