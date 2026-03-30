@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&theme=radical&height=100&section=header&text=Hi%20I'm%20Carrinson&fontSize=50)
 
-- 👷 I'm a backend heavy fullstack dev and I like to build so i'm learning how to build
-- 👀 I’m working with Java but you might also find some frontend stuff on here (react.js)
-- 🌱 I’m still learning java currently working with spring boot to bring some projects to life but i'm picking up python for backend as well
+- 👷 I'm a Backend/ML Engineer and I like to build so i'm learning how to build
+- 👀 I’m working with Go/Python but you might also find some Java stuff on here (probably Spring-Boot/Javafx)
+- 🌱 I’m still learning Python currently Learning about Ml and how to bring models to life but i'm picking up Go for backend as well
 - 📫 How to reach me?, links are to your right(if you are on a pc) lol 
 - ⚡ Fun fact: hmm i've been reading light novels and novels and my best so far are lord of the mysteries/shadow-slave and lord of the rings, I love anime, tv shows im always listening to music and love doing new and cool stuffs currently learning how to fly a drone
 - should be populating this place more this year goodluck to me 👍
